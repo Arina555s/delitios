@@ -2511,7 +2511,8 @@ h6 {
 }
 
 .no-webp .page__fon{
-  background: url("../img/main/mainLight.jpg") 100% 100% no-repeat; }
+  background: url("../img/main/mainLight.jpg") 100% 100% no-repeat; 
+  background-size: cover;  }
 
 .page__fon {
   background-size: cover;
@@ -3856,4 +3857,4 @@ h6 {
 
 .webp .arrow{ background: url(../img/slider/arrow.webp) 0 0/100% no-repeat; }
 
-.webp .page__fon{ background: url(../img/main/mainLight.webp) 100% 100% no-repeat; }
+.webp .page__fon{ background: url(../img/main/mainLight.webp) 100% 100% no-repeat;background-size: cover; } 
